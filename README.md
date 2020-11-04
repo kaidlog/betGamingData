@@ -1,3 +1,11 @@
 # betGamingData
 
-做這個小專案，只是想要觀察，宣稱可以幫助人投資的詐騙娛樂城數據到底是讓那些玩百家樂的賺多少?
+## Package:
+
+##### -- Seaborn
+##### -- numpy
+##### -- pandas
+
+## Output:
+
+###### -- Jupyter notebook
